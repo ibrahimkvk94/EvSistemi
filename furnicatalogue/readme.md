@@ -1,3 +1,5 @@
+Bu script hcankara35(ibrahim KAVAK) tarafından güncellenmiştir.
+
 # Requirements:
 
 MF_ObjectSpawner

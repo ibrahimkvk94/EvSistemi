@@ -1,3 +1,5 @@
+Bu script hcankara35(ibrahim KAVAK) tarafından güncellenmiştir.
+
 -- ModFreakz
 -- For support, previews and showcases, head to https://discord.gg/ukgQa5K
 
