@@ -1,55 +1,50 @@
-Yapılan Güncellemeler:
-Furnicatalogue scripti web sayfası üzerinde tasarımsal değişikliğe gidilmiştir.
-Furnicatalogue scripti web sayfası üzerine filtremele sistemi eklenerek mobilya ismiyle arama scripti eklenmiştir.
-Objectspawner scripti üzerinde yerleşim işlemleri için yardımcı text eklendi.
-Objectspawner scripti üzerinde komutlar güncelleştirildi.
-Objectspawner scripti üzerinde Mobilya id'si üzerinden düzenleme ve silme işlemleri eklendi.
-MF-housing-mod üzerinde kapı çıkışında yakınındaki oyuncuları davet et (Z Tuşu ile) menüsü eklendi. (Bu menünün kontrolleri henüz yapılamadı İşlevselliği testlerinizin sonuçlarını beklemekte)
-MF-housing-mod gardorap sisteminde kasa erişimi eklendi.
-MF-housing-mod üzerinde disc-inventoryhud bağlantısı eklendi.
+Yapılan Güncellemeler:<br>
+Furnicatalogue scripti web sayfası üzerinde tasarımsal değişikliğe gidilmiştir.<br>
+Furnicatalogue scripti web sayfası üzerine filtremele sistemi eklenerek mobilya ismiyle arama scripti eklenmiştir.<br>
+Objectspawner scripti üzerinde yerleşim işlemleri için yardımcı text eklendi.<br>
+Objectspawner scripti üzerinde komutlar güncelleştirildi.<br>
+Objectspawner scripti üzerinde Mobilya id'si üzerinden düzenleme ve silme işlemleri eklendi.<br>
+MF-housing-mod üzerinde kapı çıkışında yakınındaki oyuncuları davet et (Z Tuşu ile) menüsü eklendi. (Bu menünün kontrolleri henüz yapılamadı İşlevselliği testlerinizin sonuçlarını beklemekte)<br>
+MF-housing-mod gardorap sisteminde kasa erişimi eklendi.<br>
+MF-housing-mod üzerinde disc-inventoryhud bağlantısı eklendi.<br>
+<br>
+Gerekli Scriptler:<br>
+essentialmode<br>
 
-Gerekli Scriptler:
-essentialmode
-Script Kurulum:
-Dosya içerisinde bulunan sql dosyalarını veritabanına enjekte ediyoruz
-Ardından ise scripti resources içine koyuyoruz.
-Start işlemlerini yapıyoruz
-(ŞİMDİLİK) Sunucu başlatıldığında objectspawner' scriptine restart atıyoruz.
-
-
-Scripten Kareler:
+Script Kurulum:<br>
+Dosya içerisinde bulunan sql dosyalarını veritabanına enjekte ediyoruz<br>
+Ardından ise scripti resources içine koyuyoruz.<br>
+Start işlemlerini yapıyoruz<br>
+(ŞİMDİLİK) Sunucu başlatıldığında objectspawner' scriptine restart atıyoruz.<br>
 
 
-SPOYLER: V1.0
-
-
-Scriptten Video:
-
-Bu kısım yapım aşamasındadır.
-
-
-Script İndirme Bağlantısı:
-
-Virüs : Kontrol Noktası
-Link. : İndirme Noktası
-Script Komutları:
-Mobilya sayfasına erişim : /Mobilya
-Yerleştirilmiş mobilyaların ID'lerine erişim : /Mobilyalar
-Id üzerinden mobilya düzenleme : /mobilyadüzenle id Örn: /mobilyadüzenle 175
-Id üzerinden mobilya silme : /mobilyasil id Örn: /mobilyasil 175
--------------
-Ev davet sistemi : /davet id
-Ev dolap sistemi :/ayarla
-Ev anahtar verme: /anahtarver
-Ev anahtar geri alma : /anahtaral
+Scripten Kareler:<br>
 
 
 
-Önemli Not:
+Scriptten Video:<br>
+
+Bu kısım yapım aşamasındadır.<br>
+
+
+Script Komutları:<br>
+Mobilya sayfasına erişim : /Mobilya<br>
+Yerleştirilmiş mobilyaların ID'lerine erişim : /Mobilyalar<br>
+Id üzerinden mobilya düzenleme : /mobilyadüzenle id Örn: /mobilyadüzenle 175<br>
+Id üzerinden mobilya silme : /mobilyasil id Örn: /mobilyasil 175<br>
+-------------<br>
+Ev davet sistemi : /davet id<br>
+Ev dolap sistemi :/ayarla<br>
+Ev anahtar verme: /anahtarver<br>
+Ev anahtar geri alma : /anahtaral<br>
+
+
+
+Önemli Not:<br>
 Video ve Resimlerde gözüken mobilya resimleri ve mobilya itemleri script içeriğine dahil olmayıp ücretsiz paylaşımı yapılmayacaktır. Ortaya çıkan işçiliği kendiniz uğraşmayıp hızlı (Ücretli) edinmek istiyorsanız HyperQR#4581Discord adresinden tarafıma ulaşabilirsiniz.
 
-Furnicatalogue Scriptini Kullanan ve Sadece Filtreleme Kısmını İsteyenler İçin:
-index.html sayfası sonuna aşağıdaki kodları ekleyiniz.
+Furnicatalogue Scriptini Kullanan ve Sadece Filtreleme Kısmını İsteyenler İçin:<br>
+index.html sayfası sonuna aşağıdaki kodları ekleyiniz.<br>
 
 Kod:
 <script>
