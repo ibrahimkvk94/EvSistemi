@@ -15,10 +15,10 @@ function furnicatalogue:Update(...)
 end
 
 function furnicatalogue:OpenCatalogue(...)
-  --if (not self.Instance and not self.InHouse) then
-    --ESX.ShowNotification("You need to be in an apartment to do this.")
-    --return
-  --end
+  if (not self.Instance and not self.InHouse) then
+    ESX.ShowNotification("Evde olmalısın.")
+    return
+  end
 
   self.Open = not self.Open
   SendNUIMessage({
